@@ -111,8 +111,8 @@ function addToBasket() {
 
         let currentBasket = JSON.parse(localStorage.getItem('basket'));
 
-        if (currentBasket) {
-            return;
+        if (!currentBasket) { 
+            currentBasket = {}; 
         }
 
         const basketResult = {};
