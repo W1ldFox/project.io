@@ -3,13 +3,13 @@
       "id": 1,
       "name": "Паракорд Artwood Rope 550 RG1012H Neon Yellow, 1 метр",
       "article": "30015775",
-      "img": "/img/yellow.png",
+      "img": "./img/yellow.png",
       "url": "/catalog/",
       "available": true,
       "quantity": 3,
       "availableText": "На складе",
       "price": 12219
-    },
+    }, 
     "2": {
       "id": 2,
       "name": "Паракорд Artwood Rope 550 RG1012H Neon Green, 1 метр",
