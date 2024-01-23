@@ -54,7 +54,7 @@
 
 
 function getCatalog() {
-    fetch('/data/catalog.json')
+    fetch('./data/catalog.json')
         .then((response) => response.json())
         .then((data) => {
             printCatalog(data);
@@ -179,7 +179,7 @@ function getBasketList() {
         document.querySelector('[data-basket-empty]').classList.add('is-empty');
     }
 
-    fetch('/data/catalog.json')
+    fetch('./data/catalog.json')
         .then((response) => response.json())
         .then((data) => {
             printBasketList(data, currentBasket);
