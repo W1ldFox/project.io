@@ -1,0 +1,113 @@
+{
+    "1": {
+      "id": 1,
+      "name": "Паракорд Artwood Rope 550 RG1012H Neon Yellow, 1 метр",
+      "article": "30015775",
+      "img": "/img/yellow.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 12219
+    },
+    "2": {
+      "id": 2,
+      "name": "Паракорд Artwood Rope 550 RG1012H Neon Green, 1 метр",
+      "article": "32115035",
+      "img": "/img/green.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "3": {
+      "id": 3,
+      "name": "Паракорд Artwood Rope 550 RG1012H Neon Red, 1 метр",
+      "article": "12315035",
+      "img": "/img/red.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "4": {
+      "id": 4,
+      "name": "Доллар из паракорда",
+      "article": "3075635",
+      "img": "/img/item1.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "5": {
+      "id": 5,
+      "name": "Евро из паракорда",
+      "article": "31835035",
+      "img": "/img/item2.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "6": {
+      "id": 6,
+      "name": "Темляк из паракорда",
+      "article": "30634035",
+      "img": "/img/item3.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "7": {
+      "id": 7,
+      "name": "Паракорд Artwood Rope 550 RG1012H Neon Red, 1 метр",
+      "article": "30019865",
+      "img": "/img/item4.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "8": {
+      "id": 8,
+      "name": "Паракорд Artwood Rope 550 RG1012H Neon Red, 1 метр",
+      "article": "70115035",
+      "img": "/img/item5.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "9": {
+      "id": 9,
+      "name": "Браслет выживания",
+      "article": "35615035",
+      "img": "/img/item6.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    },
+    "10": {
+      "id": 10,
+      "name": "Паракорд Atwood Rope микро Pink, 1метр",
+      "article": "30946035",
+      "img": "/img/item7.png",
+      "url": "/catalog/",
+      "available": true,
+      "quantity": 3,
+      "availableText": "На складе",
+      "price": 219.98
+    }
+  }
+  
