@@ -270,14 +270,17 @@ function setQuantity() {
     document.addEventListener('click', (event) => {
         const target = event.target;
         const quantityAction = target.closest('[data-quantity-action]');
+     
+        if (!quantityAction) {
+            return;
+        }
+     
         const item = target.closest('[data-item]');
         const itemId = item.dataset.item;
         const itemPrice = item.dataset.itemPrice;
         const itemSum = item.querySelector('[data-item-sum]');
 
-        if (!quantityAction) {
-            return;
-        }
+
 
         const quantityInput = item.querySelector('[data-quantity-action=input]');
         const actionType = quantityAction.dataset.quantityAction;
